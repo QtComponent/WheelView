@@ -1,3 +1,8 @@
+---
+title: QML自定义滚动选择条
+date: 2019-01-15 21:33:01
+tags: qml
+---
 在PathView控件基础上加入滚动选择条，滚动选择条在这基础上加入Key-Value的做法，key为显示内容，value为实际内容，这样可以避免内容上的转换。
 <p align="center">
   <img src="https://github.com/QtComponent/WheelView/blob/master/Resource/WheelViewDemo.gif?raw=true" alt="">
